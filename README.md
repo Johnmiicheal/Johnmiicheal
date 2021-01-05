@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working a react app.
+- 🔭 I’m currently working on a react app.
 - 🌱 I’m currently learning react and UI 'cos I don't know anyone who does react and good ui designs.
 - 👯 I’m looking to collaborate on any interesting work.
 - ⚡ Fun fact: I really like George Hotz.
