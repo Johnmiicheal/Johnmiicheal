@@ -14,8 +14,8 @@ I am also interested in JavaScript for web applications and native mobile apps..
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a chatbot and a react web app
-- 🌱 I’m currently learning react
+- 🔭 I’m currently working on a react app
+- 🌱 I’m currently learning react and UI 'cos I don't know anyone who does react and good ui designs
 - 👯 I’m looking to collaborate on any interesting work
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on a chatbot and a react web app
-- 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate on any interesting work
-- ⚡ Fun fact: I really like George Hotz and what he is solving
+- 🔭 I’m currently working a react app.
+- 🌱 I’m currently learning react and UI 'cos I don't know anyone who does react and good ui designs.
+- 👯 I’m looking to collaborate on any interesting work.
+- ⚡ Fun fact: I really like George Hotz.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johnmicheal-elijah-35b593190/)
