@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/iammiikel)
 -->
 
 
@@ -29,12 +31,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a react app.
 - 🌱 I’m currently learning react and UI 'cos I don't know anyone who does react and good ui designs.
 - 👯 I’m looking to collaborate on any interesting work.
-- ⚡ Fun fact: I really like George Hotz.
+- ⚡ Fun fact: I really like George Hotz. Also, UI is stressful.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johnmicheal-elijah-35b593190/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/EJohnmicheal)
-[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/iammiikel)
+
 
 <td><img src="https://github-readme-stats.vercel.app/api?username=johnmiicheal&show_icons=true&count_private=true&include_all_commits=true" /></td>
 
