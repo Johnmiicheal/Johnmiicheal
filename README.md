@@ -31,6 +31,31 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any interesting work.
 - ⚡ Fun fact: I really like Ben 10. 
 
+<br>
+
+### Languages and Tools:
+
+<img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/git.png" />
+<img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/c.png" />
+<img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/cpp.png" />
+<img align="left"  width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/python.jpg" />
+<img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/flask.png" />
+<img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/nodejs.png" />
+<img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/ubuntu.png" />
+<img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/html.png" />
+<img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/css.png" />
+<img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/js.png" />
+<img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/react.png" />
+<img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/pytorch.png" />
+<img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/redux.png" />
+<img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/tensorflow-artificial-intelligence.jpg" />
+
+
+
+
+
+<br>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johnmicheal-elijah-35b593190/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/EJohnmicheal)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/iammiikel)
