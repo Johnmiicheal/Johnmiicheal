@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any interesting work.
 - ⚡ Fun fact: I really like Ben 10. 
 
-<br>
+<br />
 
 ### Languages and Tools:
 
@@ -50,15 +50,29 @@ Here are some ideas to get you started:
 <img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/redux.png" />
 <img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/tensorflow-artificial-intelligence.jpg" />
 
+<br />
+<br />
 
 
+### Competitive Programming Handles:
+
+<a href="https://www.hackerrank.com/elijah_johnmich1" target="_blank"><img align="left" width="22px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/hackerrank.png" /> </a>
 
 
-<br>
+<br /><br />
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johnmicheal-elijah-35b593190/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/EJohnmicheal)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/iammiikel)
 
-<td><img src="https://github-readme-stats.vercel.app/api?username=johnmiicheal&show_icons=true&count_private=true&include_all_commits=true" /></td>
 
+<br /><br />
+
+<summary>:zap: GitHub Stats</summary>
+
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=johnmiicheal&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true" alt="johnmiicheal"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmiicheal&layout=compact&show_icons=true&hide_title=true" alt="crazychickendev"/> </p>
+  </p>
+
+<br />
+<br />
