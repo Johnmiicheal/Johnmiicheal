@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a react app.
 - 🌱 I’m currently learning react and UI cos I have to...
 - 👯 I’m looking to collaborate on any interesting work.
-- ⚡ Fun fact: George Hotz is my hero. 
+- ⚡ Fun fact: Elon Musk 
 
 <br />
 
