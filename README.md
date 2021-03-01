@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on a react app.
+- 🔭 I’m still working on a react app.
 - 🌱 I’m currently learning react and UI cos I have to...
 - 👯 I’m looking to collaborate on any interesting work.
-- ⚡ Fun fact: CheapETH | DogeCoin 
+- ⚡ Fun fact: React.js is fun
 
 <br />
 
