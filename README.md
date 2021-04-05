@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m still working on a react app.
-- 🌱 I’m currently learning react and UI cos I have to...
-- 👯 I’m looking to collaborate on any interesting work.
-- ⚡ Fun fact: React.js is fun
+- 🔭 I’m definitely still working on that app.
+- 🌱 I’m currently learning REACT NATIVE
+- 👯 I’m looking to collaborate on interesting projects.
+- ⚡ Fun fact: Mining on my 1660ti Laptop...
 
 <br />
 
