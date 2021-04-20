@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <p align="left" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=johnmiicheal&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true" alt="johnmiicheal"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmiicheal&layout=compact&show_icons=true&hide_title=true" alt="crazychickendev"/> </p>
   </p>
   
- <script src="https://tryhackme.com/badge/338996"></script>
+
 
 <br />
 <br />
