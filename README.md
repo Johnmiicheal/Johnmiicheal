@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 <summary>:zap: GitHub Stats</summary>
 
-<p align="left" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=Johnmiicheal&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true" alt="Johnmiicheal"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnmiicheal&layout=compact&show_icons=true&hide_title=true" alt="crazychickendev"/> </p>
+<p align="left" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=Johnmiicheal&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true" alt="Johnmiicheal"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnmiicheal&layout=compact&line_height=21&show_icons=true&hide_title=true" alt="Johnmiicheal"/> </p>
   </p>
   
 
