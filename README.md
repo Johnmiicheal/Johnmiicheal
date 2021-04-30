@@ -2,9 +2,11 @@
 
 ...Johnmicheal...
 
-Already a twitch streamer...Do not subscribe 
-I am also interested in JavaScript for web applications and native mobile apps... I won't be doing this for long
 
+Not a regular twitch streamer...Do not subscribe ❌
+
+
+I am also interested in JavaScript for web applications and native mobile apps
 
 
 <!--
@@ -27,9 +29,9 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m definitely still working on that app.
-- 🌱 I’m currently learning REACT NATIVE
+- 🌱 I’m currently programming with REACT NATIVE
 - 👯 I’m looking to collaborate on interesting projects.
-- ⚡ Fun fact: Mining on my 1660ti Laptop....Definition of pain
+- ⚡ Fun fact: Definitely not lonely🖤
 
 <br />
 
@@ -71,7 +73,7 @@ Here are some ideas to get you started:
 
 <summary>:zap: GitHub Stats</summary>
 
-<p align="left" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=johnmiicheal&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true" alt="johnmiicheal"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmiicheal&layout=compact&show_icons=true&hide_title=true" alt="crazychickendev"/> </p>
+<p align="left" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=Johnmiicheal&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true" alt="Johnmiicheal"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnmiicheal&layout=compact&show_icons=true&hide_title=true" alt="crazychickendev"/> </p>
   </p>
   
 
