@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 - 🔭 I’m definitely still working on that app.
 - 🌱 I’m currently programming with REACT NATIVE
 - 👯 I’m looking to collaborate on interesting projects.
-- ⚡ Fun fact: Definitely not lonely🖤
+- ⚡ Fun fact: google not google.
+
 
 <br />
 
