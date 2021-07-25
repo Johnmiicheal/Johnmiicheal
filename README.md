@@ -3,10 +3,10 @@
 ...Johnmicheal...
 
 
-Not a regular twitch streamer...Do not subscribe ❌
+My one dream is to be a twitch streamer
 
 
-I am also interested in JavaScript for web applications and native mobile apps
+Robotics - AI - Web/Apps - Security :: In that order (Descending order of knowledge)
 
 
 <!--
@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m definitely still working on that app.
-- 🌱 I’m currently programming with REACT NATIVE
+- 🌱 I’m currently learning and building robots
 - 👯 I’m looking to collaborate on interesting projects.
-- ⚡ Fun fact: google not google.
+- ⚡ Fun fact: Et factum est, Latine nescit Google
 
 
 <br />
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johnmicheal-elijah-35b593190/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/EJohnmicheal)
-[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/__pinkhoodie)
+
 
 
 <br /><br />
