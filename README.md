@@ -1,8 +1,8 @@
 import mysecrets as bio
+<br />
 bio.show_all()
 
-
-????????????????????????????????????????????????
+-------------------------------------------------
 
 "JOHNMICHEAL" 
 
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johnmicheal-elijah-35b593190/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/iampinkhoodie)
-[![Instagram](https://img.shields.io/badge/Instagram.svg?style=for-the-badge&logo=instagram)](https://instagram.com/iampinkhoodie)
+
 
 
 
