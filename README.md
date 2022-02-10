@@ -1,9 +1,13 @@
-### Hi there 👋
+import mysecrets as bio
+bio.show_all()
 
-...Johnmicheal...
+
+????????????????????????????????????????????????
+
+"JOHNMICHEAL" 
 
 
-My one dream is to be a twitch streamer
+I'd like to be a twitch streamer someday 🎮
 
 
 Robotics - AI - Web/Apps - Security :: In that order (Descending order of knowledge)
@@ -37,6 +41,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
+------------------------------------------------------------
 
 <img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/git.png" />
 <img align="left" width="30px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/c.png" />
@@ -58,6 +63,7 @@ Here are some ideas to get you started:
 
 
 ### Competitive Programming Handles:
+-------------------------------------------------------
 
 <a href="https://www.hackerrank.com/elijah_johnmich1" target="_blank"><img align="left" width="22px" src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/hackerrank.png" /> </a>
 
@@ -66,7 +72,8 @@ Here are some ideas to get you started:
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johnmicheal-elijah-35b593190/)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/EJohnmicheal)
+[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/iampinkhoodie)
+[![Instagram](https://img.shields.io/badge/Instagram.svg?style=for-the-badge&logo=instagram)](https://instagram.com/iampinkhoodie)
 
 
 
