@@ -42,9 +42,9 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<a href="instagram.com/iampinkhoodie" target="_blank"> 
-<img src="https://img.shields.io/badge/-iampinkhoodie-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iampinkhoodie/"/>
- </a> 
+<a href="https://www.instagram.com/iampinkhoodie" target="_blank"> 
+ <img src="https://img.shields.io/badge/-iampinkhoodie-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iampinkhoodie/"/>
+</a> 
 <a href="mailto: michealelijah301@gmail.com">
  <img src="https://img.shields.io/badge/-michealelijah301-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michealelijah301@gmail.com"/>
 </a>
@@ -84,4 +84,4 @@
 </p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
-<a href="https://github.com/ritik307" target=_blank ><p align="center" style="color: #E5E5E5">cc: @ratik307 </p> </a>
+<a href="https://github.com/ritik307" target="_blank" ><p align="center" style="color: #E5E5E5">cc: @ratik307 </p> </a>
