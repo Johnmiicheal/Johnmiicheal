@@ -14,9 +14,9 @@
 
 </p>
 
-<!-- <p align="center">
-  I'm a 4th year student pursuing Bachelor's in Information Technology 🎓 from Covenant University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm deep into Web & Mobile Development | Robotics | Artificial Intelligence | Cyber Security.
-</p>   -->
+<p align="center">
+  I'm a 4th year student pursuing Bachelor's in Information Technology 🎓 from Covenant University 🏛. I'm a dedicated and motivated learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm deep into Web & Mobile Development | Robotics | Artificial Intelligence | Cyber Security.
+</p>  
 
 <h2 align="center">Technology Stack <img src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/laptop.gif" width="50"></h2>
 
@@ -28,7 +28,9 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+<img src= "https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src ="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript" />
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
