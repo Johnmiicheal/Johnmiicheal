@@ -80,4 +80,4 @@
 </p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
-<p align="center" style="color: #E5E5E5">cc: @ratik307 </p>
+<a href="https://github.com/ritik307" target=_blank ><p align="center" style="color: #E5E5E5">cc: @ratik307 </p> </a>
