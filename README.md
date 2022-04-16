@@ -72,7 +72,7 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=johnmiicheal&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=johnmiicheal&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=johnmiicheal&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical&layout=compact">
 </p>
 
 <p align = "center">
