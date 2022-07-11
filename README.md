@@ -8,7 +8,7 @@
 <p align="center">
  
  <!-- <img src="https://badges.pufler.dev/visits/johnmiicheal/johnmiicheal"/> 
- <!-- <img src="https://badges.pufler.dev/years/johnmiicheal"/> -->
+ <img src="https://badges.pufler.dev/years/johnmiicheal"/>
  <img src="https://badges.pufler.dev/repos/johnmiicheal"/>
  <img src="https://badges.pufler.dev/commits/monthly/johnmiicheal" /> -->
 
