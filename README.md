@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/header_.png" />
+<img src="https://i.imgur.com/9CHHSdQ.png" />
 
 <p align="center">
  
@@ -21,12 +21,12 @@
 <h2 align="center">Technology Stack <img src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Rust-00599C?style=flat-square&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Ruby-563D7C?style=flat-square&logo=ruby"/>
 <img src="https://img.shields.io/badge/-AwS-blue?style=flat-square&logo=amazon"/>
 <img src= "https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
