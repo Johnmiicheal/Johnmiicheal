@@ -1,9 +1,7 @@
 
-<!--  https://johnmiicheal.github.io/portfolio/  -->
 <p align="center">
- 
+ <img src="https://github.com/Johnmiicheal/Johnmiicheal/blob/main/images/GIT_BANNER.png" />
 </p align="center">
-<img src="https://i.imgur.com/9CHHSdQ.png" />
 
 <p align="center">
  
