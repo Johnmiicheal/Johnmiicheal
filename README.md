@@ -67,12 +67,12 @@
 
  
 <p align = "left">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=johnmiicheal&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-  <img src = "https://github-readme-stats.vercel.app/api?username=johnmiicheal&show_icons=true&theme=radical&line_height=25" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=johnmiicheal&show_icons=true&locale=en&layout=compact&theme=prussian&line_height=0&background=024F73" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=johnmiicheal&show_icons=true&theme=prussian&line_height=25&bg_color=024F73" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=johnmiicheal&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=johnmiicheal&theme=react-dark&bg_color=024F73">
 </p> 
 
 
