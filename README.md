@@ -20,8 +20,8 @@
 
 <p align="left">
  <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust"/>
-<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=android"/>
+<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus"/>
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby"/>
