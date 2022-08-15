@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="https://github.com/Johnmiicheal/Johnmiicheal/blob/main/images/GIT_BANNER.png" />
+ <img src="https://github.com/Johnmiicheal/Johnmiicheal/blob/main/images/RE_GIT_BANNER.png" />
 </p align="center">
 
 <p align="center">
