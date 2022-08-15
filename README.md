@@ -40,17 +40,17 @@
 <h2 align="left">Connect with me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="30"></h2>
 
 <p align="left">
-<a href="https://www.instagram.com/iampinkhoodie" target="_blank"> 
- <img src="https://img.shields.io/badge/-iampinkhoodie-black?style=flat-square&logo=instagram&logoColor=purple&link=https://www.instagram.com/iampinkhoodie/"/>
-</a> 
 <a href="mailto: michealelijah301@gmail.com">
  <img src="https://img.shields.io/badge/-michealelijah301-black?style=flat-square&logo=Gmail&logoColor=c14438&link=mailto:michealelijah301@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/johnmiicheal/">
  <img src="https://img.shields.io/badge/-johnmiicheal-black?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/johnmiicheal/"/>
 </a>
- <a href="https://twitter.com/iampinkhoodie">
- <img src="https://img.shields.io/badge/-iampinkhoodie-black?style=flat-square&logo=twitter&logoColor=blue&link=https://twitter.com/iampinkhoodie"/>
+ <a href="https://twitter.com/johnmiiiicheal">
+ <img src="https://img.shields.io/badge/-johnmiiiicheal-black?style=flat-square&logo=twitter&logoColor=blue&link=https://twitter.com/johnmiiiicheal"/>
+</a>
+ <a href="https://t.me/johnmiicheal">
+ <img src="https://img.shields.io/badge/-johnmiiiicheal-black?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/johnmiicheal"/>
 </a>
 </p>
 
