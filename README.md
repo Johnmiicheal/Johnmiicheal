@@ -49,8 +49,8 @@
  <a href="https://twitter.com/johnmiiiicheal">
  <img src="https://img.shields.io/badge/-johnmiiiicheal-black?style=flat-square&logo=twitter&logoColor=blue&link=https://twitter.com/johnmiiiicheal"/>
 </a>
- <a href="https://t.me/johnmiicheal">
- <img src="https://img.shields.io/badge/-johnmiiiicheal-black?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/johnmiicheal"/>
+ <a href="https://t.me/johnmiiiicheal">
+ <img src="https://img.shields.io/badge/-johnmiiiicheal-black?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/johnmiiiicheal"/>
 </a>
 </p>
 
