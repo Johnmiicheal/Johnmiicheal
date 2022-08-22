@@ -54,9 +54,12 @@
 </a>
 </p>
 
+<details>
+<summary>
 <h2 align="left">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 </h2>
+</summary>
  
 <br>
 
@@ -74,5 +77,6 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=johnmiicheal&theme=react-dark&bg_color=024F73">
 </p> 
+</details>
 
 
