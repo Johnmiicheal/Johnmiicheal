@@ -36,6 +36,9 @@
 <img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
+<img src="https://img.shields.io/badge/-Kali-black?style=flat-square&logo=kalilinux"/>
+
 </p>
 
 <h2 align="left">Connect with me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="30"></h2>
