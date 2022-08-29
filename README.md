@@ -42,6 +42,9 @@
 </p>
 
 <h2 align="left">Connect with me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="30"></h2>
+<a align="center" href="https://github.com/zcamp-inc" target="_blank">
+ <img src="https://i.imgur.com/leF0PjQ.png" alt="zcamp" />
+</a>
 
 <p align="left">
 <a href="mailto: michealelijah301@gmail.com">
