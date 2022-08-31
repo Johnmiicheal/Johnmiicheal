@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
 <img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
 <img src="https://img.shields.io/badge/-Kali-black?style=flat-square&logo=kalilinux"/>
