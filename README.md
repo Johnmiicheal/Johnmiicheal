@@ -3,6 +3,11 @@
  <img src="https://github.com/Johnmiicheal/Johnmiicheal/blob/main/images/RE_LNK.png" />
 </p align="center">
 
+<p align='left'>
+<img src="https://badges.strrl.dev/contributions/monthly/johnmiicheal" />
+<img src="https://badges.strrl.dev/issues-and-prs/monthly/johnmiicheal" />
+</p>
+
 <!-- <p align="center">
   I'm an aspiring Sofware/Network Engineer who is passionate about technology, I am a dedicated and motivated learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm deep into Web & Mobile Development | Robotics | Artificial Intelligence | Cyber Security.
   <a align="center" href="https://github.com/zcamp-inc" target="_blank">
