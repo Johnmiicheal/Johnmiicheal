@@ -1,19 +1,13 @@
 
 <p align="center">
- <img src="https://github.com/Johnmiicheal/Johnmiicheal/blob/main/images/RE_GIT_BANNER.png" />
+ <img src="https://github.com/Johnmiicheal/Johnmiicheal/blob/main/images/RE_LNK.png" />
 </p align="center">
 
-<p align="center">
- 
- <!-- <img src="https://badges.pufler.dev/visits/johnmiicheal/johnmiicheal"/> 
- <img src="https://badges.pufler.dev/years/johnmiicheal"/>
- <img src="https://badges.pufler.dev/repos/johnmiicheal"/>
- <img src="https://badges.pufler.dev/commits/monthly/johnmiicheal" /> -->
-
-</p>
-
 <!-- <p align="center">
-  I'm a 4th year student pursuing Bachelor's in Information Technology 🎓 from Covenant University 🏛. I'm a dedicated and motivated learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm deep into Web & Mobile Development | Robotics | Artificial Intelligence | Cyber Security.
+  I'm an aspiring Sofware/Network Engineer who is passionate about technology, I am a dedicated and motivated learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm deep into Web & Mobile Development | Robotics | Artificial Intelligence | Cyber Security.
+  <a align="center" href="https://github.com/zcamp-inc" target="_blank">
+ <img src="https://i.imgur.com/leF0PjQ.png" alt="zcamp" />
+</a>
 </p>  -->
 
 <h2 align="left">Technology Stack <img src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/laptop.gif" width="30"></h2>
@@ -43,9 +37,6 @@
 </p>
 
 <h2 align="left">Connect with me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="30"></h2>
-<a align="center" href="https://github.com/zcamp-inc" target="_blank">
- <img src="https://i.imgur.com/leF0PjQ.png" alt="zcamp" />
-</a>
 
 <p align="left">
 <a href="mailto: michealelijah301@gmail.com">
