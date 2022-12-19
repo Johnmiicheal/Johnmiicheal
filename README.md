@@ -16,7 +16,7 @@
 </p>  -->
 
 <h2 align="left">Technology Stack <img src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/laptop.gif" width="30"></h2>
-
+<h4>Languages x Frameworks x DB</h4>
 <p align="left">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src ="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript" />
@@ -27,19 +27,25 @@
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
 <img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql"/>
-<img src="https://img.shields.io/badge/-AwS-black?style=flat-square&logo=amazon"/>
 <img src= "https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"/>
 <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=android"/>
 <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus"/>
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
-<img src="https://img.shields.io/badge/-Kali-black?style=flat-square&logo=kalilinux"/>
 
 </p>
+<h4>Tools</h4>
+<p align="left">
+ <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
+ <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws"/>
+ <img src="https://img.shields.io/badge/-Digital Ocean-black?style=flat-square&logo=digitalocean"/>
+ <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+ <img src="https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress"/>
+ <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+ <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
+ <img src="https://img.shields.io/badge/-Kali-black?style=flat-square&logo=kalilinux"/>
+ 
+ </p>
 
 <h2 align="left">Connect with me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="30"></h2>
 
