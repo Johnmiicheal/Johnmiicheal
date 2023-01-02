@@ -5,7 +5,7 @@
 
 <p align='left'>
 <img src="https://badges.strrl.dev/contributions/monthly/johnmiicheal" />
-<img src="https://badges.strrl.dev/issues-and-prs/monthly/johnmiicheal" />
+<img src="https://badges.strrl.dev/prs/monthly/johnmiicheal" />
 </p>
 
 <!-- <p align="center">
