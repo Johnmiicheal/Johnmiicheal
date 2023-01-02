@@ -85,7 +85,7 @@
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=johnmiicheal&theme=react-dark&bg_color=024F73">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=johnmiicheal&theme=react-dark&bg_color=024F73">
 </p> 
 </details>
 
