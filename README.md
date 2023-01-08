@@ -14,7 +14,7 @@
  <img src="https://i.imgur.com/leF0PjQ.png" alt="zcamp" />
 </a>
 </p>  -->
-<img src="https://github-profile-trophy.vercel.app/?username=johnmiicheal&theme=tokyonight&column=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=johnmiicheal&theme=tokyonight&row=2" />
 
 <h2 align="left">Technology Stack <img src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/laptop.gif" width="30"></h2>
 <h4>Languages x Frameworks x DB</h4>
