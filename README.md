@@ -44,7 +44,9 @@
  <img src="https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress"/>
  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
  <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
+ <img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"/>
  <img src="https://img.shields.io/badge/-Kali-black?style=flat-square&logo=kalilinux"/>
+
  
  </p>
 
