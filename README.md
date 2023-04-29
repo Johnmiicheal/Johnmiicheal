@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="https://github.com/Johnmiicheal/Johnmiicheal/blob/main/images/RE_LNKD.png" />
+ <img src="https://github.com/Johnmiicheal/Johnmiicheal/blob/main/images/RE_BANR.png" />
 </p align="center">
 
 <p align='left'>
