@@ -87,9 +87,8 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=johnmiicheal&show_icons=true&theme=prussian&line_height=25&bg_color=024F73" />
 </p> 
 
-<p align = "center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=johnmiicheal&theme=react-dark&bg_color=024F73">
-</p> 
+ <a href="https://gitroll.io/profile/uDx6U9Iv4i7SRe81dsKjbLWM1IKB2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uDx6U9Iv4i7SRe81dsKjbLWM1IKB2" alt="GitRoll Profile Badge"/></a>
+
 </details>
 
 
