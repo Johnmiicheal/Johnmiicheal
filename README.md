@@ -1,4 +1,4 @@
-
+<!--
 <p align="center">
  <img src="https://github.com/Johnmiicheal/Johnmiicheal/blob/main/images/RE_BANR.png" />
 </p align="center">
@@ -8,12 +8,7 @@
 <img src="https://badges.strrl.dev/prs/monthly/johnmiicheal" />
 </p>
 
-<!-- <p align="center">
-  I'm an aspiring Sofware/Network Engineer who is passionate about technology, I am a dedicated and motivated learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm deep into Web & Mobile Development | Robotics | Artificial Intelligence | Cyber Security.
-  <a align="center" href="https://github.com/zcamp-inc" target="_blank">
- <img src="https://i.imgur.com/leF0PjQ.png" alt="zcamp" />
-</a>
-</p>  -->
+
 <img src="https://github-profile-trophy.vercel.app/?username=johnmiicheal&theme=tokyonight&row=2&no-frame=true" />
 
 <h2 align="left">Technology Stack <img src="https://github.com/johnmiicheal/johnmiicheal/blob/main/images/laptop.gif" width="30"></h2>
@@ -79,7 +74,7 @@
 <!-- <p align = "center">
  <img  src = "https://github-readme-stats.vercel.app/api?username=johnmiicheal&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=johnmiicheal&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical&layout=compact&line_height=27">
-</p> -->
+</p> 
 
  
 <p align = "left">
@@ -90,5 +85,5 @@
  <a href="https://gitroll.io/profile/uDx6U9Iv4i7SRe81dsKjbLWM1IKB2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uDx6U9Iv4i7SRe81dsKjbLWM1IKB2" alt="GitRoll Profile Badge"/></a>
 
 </details>
-
+  -->
 
